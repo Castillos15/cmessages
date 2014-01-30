@@ -12,4 +12,6 @@ timout ( how long in seconds it'll take the message to dissapear ),
 player ( the player that will receive the message, used only for server side, don't use the argument to send it to all players )
 }
 
-Screenshot: http://i.imgur.com/T1NRuit.jpg
+Screenshot:
+
+![alt tag](http://i.imgur.com/T1NRuit.jpg)
